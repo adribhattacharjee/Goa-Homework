@@ -1,0 +1,8 @@
+h1{
+    color: #f5f5dc;
+    background-color: rgb(122,211,56);
+    text-decoration: overline blue dashed;
+    text-shadow: 11px;
+    text-transform: capitalize;
+    font-family: cursive;
+}

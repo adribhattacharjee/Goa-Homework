@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    gap: 30px;
+}
+
+div{
+    height: 333px;
+    width: 333px;
+    background-color: black;
+}

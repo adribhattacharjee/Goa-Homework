@@ -1,0 +1,44 @@
+h1{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+
+
+.h21{
+    font-family: fantasy;
+}
+
+.p1{
+    font-family: fantasy;
+    font-weight: 400;
+}
+
+.p2{
+    font-family: fantasy;
+    font-size: 30px;
+}
+.p3{
+    font-family: fantasy;
+    font-size: 40px ;
+}
+
+.p4{
+    font-family: fantasy; 
+    font-size: 20px;
+}
+
+.h22{
+    font-family: fantasy;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+p{
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+html{
+    background-color: aqua;
+}

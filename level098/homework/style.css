@@ -1,0 +1,19 @@
+h3{
+    color: rgb(0,0,0);
+    background-color: rgb(99,78,255);
+    text-decoration: underline red;
+}
+
+section{
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  height: 90vh;
+  justify-content: space-between;
+}
+
+div{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

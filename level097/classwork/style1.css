@@ -1,0 +1,8 @@
+h1{
+    color: black;
+    background-color:blue;
+    text-decoration:underline red;
+    text-shadow: 12px 21px 10px greenyellow;
+    text-transform: capitalize;
+    font-family: cursive;
+}

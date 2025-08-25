@@ -1,0 +1,15 @@
+p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+button{
+    color: darkgreen;
+    background-color: white;
+}
+
+html{
+    background-color: black;
+    color: aqua;
+}

@@ -1,0 +1,17 @@
+div{
+    width: 100px;
+    height: 100px;
+    animation-duration: 10s;
+    animation-delay: 2s;
+    animation-name: move_right;
+    position: absolute;
+    background-color: black;
+}
+
+
+@keyframes move_right{
+    0%{left: 0px;}
+    30%{left: 100px;}
+    60%{left: 200px;}
+    100%{left: 300px;}
+}

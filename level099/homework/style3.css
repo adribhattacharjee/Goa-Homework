@@ -1,0 +1,9 @@
+p{
+    padding: 23px;
+    margin: 12px;
+    border-left: 20px red solid;
+    border-right: 20px aqua solid;
+    border-radius: 10px;
+    text-align: center;
+    width: 35px;
+}

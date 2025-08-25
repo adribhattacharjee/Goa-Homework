@@ -1,0 +1,35 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+    font-weight: 200;
+}
+
+.p1{
+    color: red;
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.p2{
+    color: rgb(110, 204, 240);
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.p3{
+    color: seashell;
+    font-size: 120px;
+    font-weight: 700;
+}
+
+.p4{
+    color: bisque;
+    font-size: 180px;
+    font-weight: 600;
+}
+
+.p5{
+    color: black;
+    font-size: 160px;
+    font-weight: 900;
+}

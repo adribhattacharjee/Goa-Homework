@@ -1,0 +1,80 @@
+.p1{
+    text-align: center;
+    background-color: white;
+    border: 1px  solid black;
+    font-family: fantasy;
+}
+
+.p2{
+    color: white;
+    background-color: black ;
+    border: 1px solid black;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+.p3{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    font-size: 55px;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.p4{
+    color: whitesmoke;
+    background-color: black;
+    border: 3px solid black;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+.p5{
+    color: white;
+    font-size: 50px;
+    background-color: black;
+    border: 2px;
+    text-align: center;
+    text-decoration: dashed;
+    font-family: fantasy;
+}
+
+.p6{
+    color: white;
+    background-color: black;
+    border: 2px solid black;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+.p7{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.p8{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+div{
+    width: 50px;
+    height: 50px;
+    color: black;
+    border: 30px dashed yellowgreen;
+    transition: 0.25s;
+    background-color: black;
+}
+
+div:hover{
+    width: 200px;
+    height: 200px;
+}
