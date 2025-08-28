@@ -1,0 +1,32 @@
+div{
+    width: 100px;
+    height: 100px;
+    animation-duration: 5s;
+    animation-delay: 2s;
+    animation-name: color_change;
+    background-color: black;
+}
+
+
+@keyframes color_change {
+  0% {
+    background-color: white;
+    transform: translate(0px, 0px) scale(1);
+  }
+  25% {
+    background-color: yellow;
+    transform: translate(100px, 100px) scale(1.2);
+  }
+  50% {
+    background-color: blue;
+    transform: translate(200px, 200px) scale(1.4);
+  }
+  75% {
+    background-color: yellowgreen;
+    transform: translate(300px, 300px) scale(1.6);
+  }
+  100% {
+    background-color: greenyellow;
+    transform: translate(400px, 400px) scale(1.8);
+  }
+}
