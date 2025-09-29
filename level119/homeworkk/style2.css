@@ -1,0 +1,12 @@
+div{
+    width: 500px;
+    height: 500px;
+    border: 2px solid skyblue;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+button{
+    width: 100px;
+    height: 100px;
+}

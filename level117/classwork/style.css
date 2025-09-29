@@ -1,0 +1,15 @@
+.parent{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-direction: column-reverse;
+}
+
+.child{
+    background-color: black;
+    width: 30px;
+    height: 30px;
+}
