@@ -1,0 +1,8 @@
+main div{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    background-color: aqua;
+    border-width: 2px 4px 6px 8px ;
+    border-color: black;
+}

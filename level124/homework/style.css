@@ -1,0 +1,9 @@
+li{
+    text-decoration: wavy chartreuse;
+    color: #00bfff;
+    font-size: 40px;
+}
+
+li:nth-child(5n){
+    text-decoration: wavy rgb(0, 255, 255);
+}

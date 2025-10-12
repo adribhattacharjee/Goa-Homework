@@ -1,0 +1,11 @@
+ul li{
+    color: aqua;
+}
+
+.child:nth-child(2n){
+    color: blue;
+}
+
+.child.child:nth-child(3n){
+    color: greenyellow;
+}
